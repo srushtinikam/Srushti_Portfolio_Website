@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# -FUTURE_FS_01
+# Portfolio
 This is a personal professional portfolio website created me using React.js, HTML, and CSS. The main objective of this website is to showcase my skills, projects, qualifications, and achievements cleanly and professionally. This portfolio acts as a digital resume where visitors can explore my technical skills, view my past projects, download my resume, and contact me directly through an integrated contact form.
 The website is fully responsive, meaning it works seamlessly on desktop, tablet, and mobile devices. I have used EmailJS to enable a functional contact form that sends messages directly to my email without requiring any backend server.
 The portfolio includes sections like Home, About Me, Skills, Projects, and Contact. Each project listed features details like the project description, the technologies used, and links to both the GitHub repository and the live demo (if available).
